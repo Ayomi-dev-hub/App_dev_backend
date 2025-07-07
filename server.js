@@ -24,4 +24,4 @@ app.post('/api/payout', async (req, res) => {
   }
 });
 
-app.listen(5000, () => console.log('Server running on http://localhost:5000'));
+app.listen(5000, () => console.log('Server running on https://app-dev-backend-9w2h.onrender.com'));
